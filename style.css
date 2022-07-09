@@ -1,0 +1,66 @@
+body {
+  height: 3000px;
+}
+nav {
+  background-color: rgb(182, 131, 230);
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(229, 126, 214, 0.7);
+}
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+  box-shadow: -5px 5px 5px rgb(227, 141, 197, 0.8);
+}
+
+.jumbotron h1 {
+  font-size: 35px;
+  color: white;
+  text-shadow: 0 5px 5px rgba(102, 10, 56, 0.6);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bio {
+  font-size: 50px;
+  color: rgb(237, 147, 207);
+  text-shadow: 5px 5px 5px rgba(102, 10, 56, 0.8);
+}
+.lead {
+  color: white;
+  font-size: 30px;
+  text-shadow: 0 5px 5px rgba(102, 10, 56, 0.6);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col ul li {
+  list-style: none;
+  line-height: 50px;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col img {
+  width: 300px;
+  height: 300px;
+  justify-content: center;
+  border: 5px solid rgb(235, 142, 158);
+}
+/* akhir bio */
+
+#dua ol li {
+  font-size: 30px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+/* akhir semoga */
+
+footer {
+  background-color: rgb(182, 131, 230);
+  list-style: none;
+}
+
+section {
+  padding-top: 5rem;
+}
